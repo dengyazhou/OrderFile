@@ -1,0 +1,23 @@
++[XMModel load]
+_main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[SceneDelegate window]
+-[SceneDelegate setWindow:]
+-[SceneDelegate scene:willConnectToSession:options:]
+-[SceneDelegate sceneWillEnterForeground:]
+-[ViewController viewDidLoad]
+-[SceneDelegate sceneDidBecomeActive:]
+-[ViewController touchesBegan:withEvent:]
+-[CreateOrderViewController viewDidLoad]
+_$s19BinaryRearrangement12XMSwiftModelCACycfcTo
+_$s19BinaryRearrangement12XMSwiftModelCACycfc
+_$s19BinaryRearrangement12XMSwiftModelCMa
+_$s19BinaryRearrangement12XMSwiftModelC11callXMModelyyFTo
+_$s19BinaryRearrangement12XMSwiftModelC11callXMModelyyF
+_$sSo7XMModelCMa
+_$sSo7XMModelCABycfC
+_$sSo7XMModelCABycfcTO
+_$ss27_finalizeUninitializedArrayySayxGABnlF
+_$sSa12_endMutationyyF
+_$ss5print_9separator10terminatoryypd_S2StFfA0_
+_$ss5print_9separator10terminatoryypd_S2StFfA1_
